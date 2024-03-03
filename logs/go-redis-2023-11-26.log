@@ -1,0 +1,14 @@
+[ERROR][main.go:40] 2023/11/26 23:21:37 listen tcp 0.0.0.0:6379: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[ERROR][main.go:40] 2023/11/26 23:21:59 listen tcp 0.0.0.0:6379: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[ERROR][main.go:40] 2023/11/26 23:22:13 listen tcp 0.0.0.0:6379: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[ERROR][main.go:40] 2023/11/26 23:23:01 listen tcp 0.0.0.0:6379: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[ERROR][main.go:40] 2023/11/26 23:24:20 listen tcp 0.0.0.0:6378: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[INFO][server.go:34] 2023/11/26 23:25:51 start listen
+[INFO][server.go:61] 2023/11/26 23:26:23 link accepted
+[INFO][server.go:44] 2023/11/26 23:27:41 shutting down...
+[INFO][handler.go:83] 2023/11/26 23:27:41 handler shutting down...
+[INFO][server.go:34] 2023/11/26 23:27:57 start listen
+[INFO][server.go:61] 2023/11/26 23:27:57 link accepted
+[INFO][server.go:61] 2023/11/26 23:29:10 link accepted
+[INFO][server.go:34] 2023/11/26 23:29:13 start listen
+[INFO][server.go:61] 2023/11/26 23:29:14 link accepted
